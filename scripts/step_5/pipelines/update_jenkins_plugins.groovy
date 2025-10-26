@@ -6,6 +6,7 @@
 // just accept it for this pipeline ¯\_(ツ)_/¯
 // 
 // Recommendation: Run once a night
+// H 4 * * *
 
 
 jenkins.model.Jenkins.getInstance().getUpdateCenter().getSites().each { site ->

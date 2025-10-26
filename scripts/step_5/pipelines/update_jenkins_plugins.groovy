@@ -8,7 +8,7 @@
 // -> "console output" 
 // -> "Administrators can decide whether to approve or reject this signature." 
 // -> "Approve"
-// repeat until succes
+// repeat until success
 //
 // Recommendation: Run once a night
 // H 4 * * * 

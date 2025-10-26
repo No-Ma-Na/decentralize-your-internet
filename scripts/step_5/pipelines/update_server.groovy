@@ -1,6 +1,7 @@
 // Description: This pipeline will update the server and reboot it
 //
 // Recommendation: Run once a night
+// H 4 * * *
 
 pipeline {
     agent any

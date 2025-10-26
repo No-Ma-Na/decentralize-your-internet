@@ -4,7 +4,12 @@
 // preferred syntax for Jenkins pipelines is the declarative syntax, which is the one used 
 // in the previous scripts.
 // just accept it for this pipeline ¯\_(ツ)_/¯
-// 
+// you'll have to build this script a few times after each fail click on the last failed build number
+// -> "console output" 
+// -> "Administrators can decide whether to approve or reject this signature." 
+// -> "Approve"
+// repeat untils succes
+//
 // Recommendation: Run once a night
 // H 4 * * * 
 
